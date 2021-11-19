@@ -4,7 +4,7 @@ Descrição inicial do meu  READ ME
 
 ## Subtítulo 
 
-Blablabla.
+Esse é o texto do subtítulo, e não está formatado de forma distinta. É texto puro.
 
 ## Para que serve esse arquivo?
 
