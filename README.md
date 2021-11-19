@@ -6,6 +6,6 @@ Descrição inicial do meu  READ ME
 
 Blablabla.
 
-##Para que serve esse arquivo?
+## Para que serve esse arquivo?
 
-Serve para qualquer.....
+Serve para descrever as funcionalidades do Software: O que faz, como faz, porque faz, etc...
